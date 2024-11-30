@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CambiodeDivisa</string>
+    <string-array name="currencies_array">
+        <item>Dólares</item>
+        <item>Euros</item>
+        <item>Pesos Mexicanos</item>
+    </string-array>
+    <string name="resultado">Resultado: </string>
+    <string name="convertir">Convertir</string>
+    <string name="Monto">Ingresar monto en Soles</string>
+</resources>
